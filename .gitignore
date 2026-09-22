@@ -1,0 +1,11 @@
+build/
+.gradle/
+node_modules/
+.idea/
+dist/
+*.iml
+.DS_Store
+.kotlin/
+podskaz/
+podskaz/Kotlin_povtorenie.md
+CLAUDE.md
